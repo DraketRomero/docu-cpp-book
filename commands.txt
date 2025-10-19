@@ -1,0 +1,10 @@
+Comando para ejecutar la compilacion.
+g++ intro_to_cpp\hello_world.cpp -o intro_to_cpp\output\hello_world -std=c++20
+
+Descripcion de partes: 
+g++                               -> Compilador
+intro_to_cpp\hello_world.cpp      -> Ruta y nombre del archivo con su extencion
+o intro_to_cpp\output\hello_world -> Ruta de salida para el archivo compilado y su ejecucion.
+-std=c++20                        -> Version del lenguaje a ocupar.
+
+
